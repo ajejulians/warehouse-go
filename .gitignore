@@ -1,0 +1,24 @@
+# Go
+/bin/
+/dist/
+*.exe
+*.dll
+*.so
+
+# GO modules
+/vendor/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
